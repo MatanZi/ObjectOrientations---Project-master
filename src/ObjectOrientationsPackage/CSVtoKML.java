@@ -13,8 +13,6 @@ import KML.ConvertToKML;
 /**
  * Converting, sorting and filtering a CSV file to a KML file
  * 
- * @author Yarin
- * 
  * @see <b>CSV:</b> https://en.wikipedia.org/wiki/Comma-separated_values
  *      <P>
  *      <b>KML:</b> https://en.wikipedia.org/wiki/Keyhole_Markup_Language
