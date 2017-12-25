@@ -1,6 +1,5 @@
 package Other;/**
  * This class store the info from the CSV file
- * @author Yarin
  *
  */
 public class Info {
